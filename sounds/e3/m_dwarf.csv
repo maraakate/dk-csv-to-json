@@ -1,0 +1,15 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,e3/m_dwarfamba.wav,1,e3/m_dwarfsighte.wav,,FRAME_LOOP,,,,85,5
+ambb,e3/m_dwarfsighte.wav,1,e3/m_dwarfsightc.wav,,FRAME_ONCE,,,,15,20
+ataka,e3/m_dwarfataka.wav,15,global/m_knifehitd.wav,,FRAME_ONCE,18,,200,,
+atakc,e3/m_dwarfatakc.wav,11,global/m_knifehitd.wav,,FRAME_ONCE,15,,200,,
+atakd,e3/m_dwarfatakb.wav,19,,,FRAME_ONCE,16,,200,,
+diea,e3/m_dwarfdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e3/m_dwarfdiea.wav,1,,,FRAME_ONCE,,,,,
+hita,e3/m_dwarfhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e3/m_dwarfhita.wav,1,,,FRAME_ONCE,,,,,
+runa,e3/m_dwarfruna.wav,1,,,FRAME_ONCE,,,200,,
+walka,e3/m_dwarfwalka.wav,1,,,FRAME_ONCE,,,100,,
+sighta,e3/m_dwarfsighta.wav,1,,,FRAME_ONCE,,,,33,
+sightb,e3/m_dwarfsightb.wav,1,,,FRAME_ONCE,,,,33,
+sightd,e3/m_dwarfsightd.wav,1,,,FRAME_ONCE,,,,34,

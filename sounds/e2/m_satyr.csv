@@ -1,0 +1,14 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,1,e2/m_satyramba.wav,,FRAME_LOOP,,,,67,10
+ambb,,1,e2/m_satyrambb.wav,,FRAME_ONCE,,,,23,20
+ambc,,1,e2/m_satyrambc.wav,,FRAME_ONCE,,,,10,50
+ataka,e2/m_satyrataka.wav,3,,,FRAME_ONCE,12,,280,,
+atakb,e2/m_satyratakb.wav,1,,,FRAME_ONCE,8,18,280,,
+atakc,e2/m_satyratakc.wav,1,,,FRAME_ONCE,8,,280,,
+diea,e2/m_satyrdiea.wav,1,,,FRAME_ONCE,,,,,
+hita,e2/m_satyrhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e2/m_satyrhitb.wav,1,,,FRAME_ONCE,,,,,
+runa,e2/m_satyrwalka.wav,1,e2/m_satyrwalkb.wav,8,FRAME_ONCE,,,280,,
+walka,e2/m_satyrwalka.wav,1,e2/m_satyrwalkb.wav,10,FRAME_ONCE,,,65,,
+sighta,e2/m_satyrsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e2/m_satyrsightb.wav,1,,,FRAME_ONCE,,,,50,

@@ -1,0 +1,10 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
+amba,e1/m_sludgeamba.wav,1,,,FRAME_LOOP,,,,,
+ambb,e1/m_sludgegetmud.wav,1,,,FRAME_ONCE,,,,,
+ataka,e1/m_sludgeataka.wav,1,,,FRAME_ONCE,23,10,80,,
+atakb,e1/m_sludgeatakb.wav,3,,,FRAME_ONCE,5,5,80,,
+diea,e1/m_sludgediesa.wav,1,,,FRAME_ONCE,,,,,
+hita,e1/m_sludgehita.wav,1,,,FRAME_ONCE,,,,,
+walka,e1/m_sludgewalka.wav,1,e1/m_sludgewalkb.wav,14,FRAME_ONCE,,,50,,
+sighta,e1/m_sludgesight.wav,1,,,FRAME_ONCE,,,,,
+runa,e1/m_sludgewalka.wav,0,e1/m_sludgewalkb.wav,7,FRAME_ONCE,,,50,,

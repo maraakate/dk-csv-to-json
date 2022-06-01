@@ -1,0 +1,16 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e3/m_buboidamba.wav,1,FRAME_LOOP,,,,95,10
+ambb,,,e3/m_buboidambb.wav,1,FRAME_ONCE,,,,5,100
+ataka,e3/m_buboidataka.wav,1,,,FRAME_ONCE,12,19,,,
+atakb,e3/m_buboidatakb.wav,1,,,FRAME_ONCE,18,,,,
+atakc,e3/m_buboidatakc.wav,1,,,FRAME_ONCE,,,,,
+atakd,e3/m_buboidatakd.wav,1,,,FRAME_ONCE,,,,,
+diea,e3/m_buboiddiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e3/m_buboiddieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e3/m_buboidhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e3/m_buboidhitb.wav,1,,,FRAME_ONCE,,,,,
+runa,e3/m_lycanthirruna.wav,1,,,FRAME_ONCE,,,,,
+walka,e3/m_lycanthirwalka.wav,1,,,FRAME_ONCE,,,,,
+speciala,e3/m_buboidspeciala.wav,1,,,FRAME_ONCE,6,,,,
+sighta,e3/m_buboidsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e3/m_buboidsightb.wav,1,,,FRAME_ONCE,,,,50,

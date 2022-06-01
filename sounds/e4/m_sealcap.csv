@@ -1,0 +1,13 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+amba,,,,,FRAME_LOOP,,,,85,5
+ambb,,,,,FRAME_ONCE,,,,15,15
+ataka,e4/we_ripgunshootc.wav,9,,,FRAME_ONCE,9,,400,,
+atakb,e4/we_ripgunshootc.wav,2,e4/m_sealcapatakb.wav,1,FRAME_ONCE,2,,400,,
+diea,e4/m_sealcapdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e4/m_sealcapdieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e4/m_sealcaphita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e4/m_sealcaphitb.wav,1,,,FRAME_ONCE,,,,,
+runa,e4/m_rockgangwalka.wav,1,e4/m_rockgangwalkb.wav,8,FRAME_ONCE,,,400,,
+walka,e4/m_rockgangwalka.wav,1,e4/m_rockgangwalkb.wav,8,FRAME_ONCE,,,50,,
+sighta,e4/m_sealcapsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e4/m_sealcapsightb.wav,1,,,FRAME_ONCE,,,,50,

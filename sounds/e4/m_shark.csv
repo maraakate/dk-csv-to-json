@@ -1,0 +1,8 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+amba,,,e4/m_sharkamba.wav,1,FRAME_LOOP,,,,100,
+ataka,e4/m_sharkataka.wav,7,,,FRAME_ONCE,1,,360,,
+atakb,e4/m_sharkatakb.wav,1,,,FRAME_ONCE,1,,360,,
+atakc,e4/m_sharkatakc.wav,1,,,FRAME_ONCE,1,,360,,
+diea,e4/m_sharkdiea.wav,1,,,FRAME_ONCE,,,,,
+hita,e4/m_sharkhita.wav,1,,,FRAME_ONCE,,,,,
+swima,hiro/swim3.wav,1,,,FRAME_ONCE,,,360,,

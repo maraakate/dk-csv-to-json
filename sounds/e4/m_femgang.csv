@@ -1,0 +1,13 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e4/m_femgangamba.wav,1,FRAME_LOOP,,,,85,10
+ambb,,,,1,FRAME_ONCE,,,,15,
+ataka,global/we_swordwhooshc.wav,10,global/m_knifehita.wav,,FRAME_ONCE,15,,350,,
+atakb,e4/m_femgangatakb.wav,5,global/m_knifehita.wav,,FRAME_ONCE,13,,350,,
+diea,e4/m_femgangdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e4/m_femgangdieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e4/m_femganghita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e4/m_femganghita.wav,1,,,FRAME_ONCE,,,,,
+runa,e4/m_rockgangwalka.wav,1,e4/m_rockgangwalkb.wav,8,FRAME_ONCE,,,350,,
+walka,e4/m_rockgangwalka.wav,1,e4/m_rockgangwalkb.wav,8,FRAME_ONCE,,,100,,
+sighta,e4/m_femgangsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e4/m_femgangsightb.wav,1,,,FRAME_ONCE,,,,50,

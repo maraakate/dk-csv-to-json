@@ -1,0 +1,18 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,e3/m_lycanthiramba.wav,1,e3/m_lycanthirhowla.wav,,FRAME_LOOP,,,,80,20
+ambb,e3/m_lycanthirambb.wav,1,e3/m_lycanthirhowlc.wav,,FRAME_ONCE,,,,10,50
+ataka,e3/m_lycanthirataka.wav,6,global/m_gibmeatd.wav,,FRAME_ONCE,12,,300,,
+atakb,e3/m_lycanthiratakb.wav,6,global/m_gibmeatd.wav,,FRAME_ONCE,12,22,300,,
+atakc,e3/m_lycanthiratakc.wav,1,global/m_gibmeatd.wav,,FRAME_ONCE,10,,300,,
+atakd,e3/m_lycanthiratakd.wav,1,global/m_gibmeatd.wav,,FRAME_ONCE,7,,300,,
+diea,e3/m_lycanthirdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e3/m_lycanthirdieb.wav,1,,,FRAME_ONCE,,,,,
+eata,e3/m_lycanthireata.wav,6,,,FRAME_ONCE,,,,,
+hita,e3/m_lycanthirhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e3/m_lycanthirhitb.wav,1,,,FRAME_ONCE,,,,,
+jumpa,e3/m_lycanthirjumpa.wav,1,,,FRAME_ONCE,7,,,,
+jumpb,e3/m_lycanthirjumpa.wav,1,,,FRAME_ONCE,7,,,,
+runa,e3/m_lycanthirwalka.wav,1,e3/m_lycanthirwalkb.wav,8,FRAME_ONCE,,,300,,
+walka,e3/m_lycanthirwalka.wav,1,e3/m_lycanthirwalkb.wav,10,FRAME_ONCE,,,150,,
+sighta,e3/m_lycanthirsighta.wav,1,,,FRAME_ONCE,,,,50
+sightb,e3/m_lycanthirsightb.wav,1,,,FRAME_ONCE,,,,50

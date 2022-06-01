@@ -1,0 +1,16 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+amba,,,,,FRAME_LOOP,,,,,
+ambb,,,e4/m_uzigngambb.wav,1,FRAME_ONCE,,,,5,40
+ataka,e4/m_uzigngataka.wav,6,,,FRAME_ONCE,6,,,,
+atakb,e4/m_uzigngatakb.wav,1,,,FRAME_ONCE,1,5,250,,
+diea,e4/m_uzigngdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e4/m_uzigngdieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e4/m_uzignghita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e4/m_uzignghitb.wav,1,,,FRAME_ONCE,,,,,
+runa,e4/m_uzigngruna.wav,1,,,FRAME_ONCE,,,250,,
+walka,e4/m_uzigngwalka.wav,1,,,FRAME_ONCE,,,50,,
+jumpa,e4/m_uzigngjumpa.wav,8,,,FRAME_ONCE,,,270,,
+sighta,e4/m_uzigngsighta.wav,1,,,FRAME_ONCE,,,,30,
+sightb,e4/m_uzigngsightb.wav,1,,,FRAME_ONCE,,,,10,
+sightc,e4/m_uzigngsightc.wav,1,,,FRAME_ONCE,,,,30,
+sightd,e4/m_uzigngsightd.wav,1,,,FRAME_ONCE,,,,30,

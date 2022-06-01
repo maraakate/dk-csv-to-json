@@ -1,0 +1,8 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+ataka,e3/m_dragonatakc.wav,10,,,FRAME_ONCE,44,,,,
+diea,e3/m_dragondiea.wav,1,,,FRAME_ONCE,,,,,
+hita,e3/m_dragonhita.wav,1,,,FRAME_ONCE,,,,,
+hover,e2/m_griffonflya.wav,1,,,FRAME_LOOP,,,,,
+sighta,e3/m_dragonsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e3/m_dragonsightb.wav,1,,,FRAME_ONCE,,,,50,
+flya,e2/m_griffonflya.wav,1,,,FRAME_LOOP,,,,,

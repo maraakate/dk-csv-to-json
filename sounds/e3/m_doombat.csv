@@ -1,0 +1,9 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e3/m_doombatamba.wav,1,FRAME_LOOP,,,,100,10
+ataka,e3/e_firespith.wav,1,,,FRAME_ONCE,1,,,,
+atakb,e3/m_doombatataka.wav,1,,,FRAME_ONCE,4,,,,
+diea,e3/m_doombatdiea.wav,1,,,FRAME_ONCE,,,,,
+flya,e3/m_doombatflya.wav,1,,,FRAME_ONCE,,,,,
+hita,e3/m_doombathita.wav,1,,,FRAME_ONCE,2,,,,
+sighta,e3/m_doombatsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e3/m_doombatsightb.wav,1,,,FRAME_ONCE,,,,50,

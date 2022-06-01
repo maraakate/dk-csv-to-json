@@ -1,0 +1,14 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+amba,,,e1/m_skeeteramba.wav,1,FRAME_LOOP,,,,75,10
+ambb,,,e1/m_skeeterambb.wav,1,FRAME_ONCE,,,,25,20
+ataka,e1/m_skeeterataka.wav,3,,,FRAME_ONCE,7,,200,,
+atakb,e1/m_skeeteratakb.wav,6,,,FRAME_ONCE,12,,200,,
+diea,e1/m_skeeterdiea.wav,1,,,FRAME_ONCE,,,,,
+flya,e1/m_skeeterflya.wav,1,,,FRAME_ONCE,,,,,
+hita,e1/m_skeeterhita.wav,1,,,FRAME_ONCE,,,,,
+runa,e1/m_skeeterwalka.wav,1,,,FRAME_ONCE,,,200,,
+takeoffa,e1/m_skeetertakeoffa.wav,4,,,FRAME_ONCE,,,,,
+walka,e1/m_skeeterwalka.wav,1,,,FRAME_ONCE,,,120,,
+speciala,e1/m_skeeterhatcha.wav,1,,,FRAME_ONCE,,,,,
+sighta,e1/m_skeetersighta.wav,1,,,FRAME_ONCE,,,,,
+sightb,e1/m_skeetersightb.wav,1,,,FRAME_ONCE,,,,,

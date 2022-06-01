@@ -1,0 +1,9 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e2/m_spideramba.wav,1,FRAME_LOOP,,,,75,10
+ambb,,,e2/m_spiderambb.wav,1,FRAME_ONCE,,,,25,20
+ataka,e2/m_spiderataka.wav,4,,,FRAME_ONCE,13,,300,,
+diea,e2/m_spiderdiea.wav,1,,,FRAME_ONCE,,,,,
+jumpa,e2/m_spiderjumpa.wav,1,,,FRAME_ONCE,,,,,
+runa,e2/m_spiderruna.wav,1,,,FRAME_ONCE,,,300,,
+walka,e2/m_spiderwalka.wav,1,,,FRAME_ONCE,,,50,,
+sight,e2/m_spidersight.wav,1,,,FRAME_ONCE,,,,,

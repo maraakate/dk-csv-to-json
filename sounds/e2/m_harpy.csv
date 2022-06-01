@@ -1,0 +1,15 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e2/m_harpyamba.wav,1,FRAME_LOOP,,,,50,10
+ambb,,,e2/m_harpyambb.wav,1,FRAME_ONCE,,,,50,10
+ataka,e2/m_harpyataka.wav,0,,,FRAME_ONCE,14,,,,
+atakb,e2/m_harpyataka.wav,1,,,FRAME_ONCE,21,,,,
+diea,e2/m_harpydiea.wav,1,,,FRAME_ONCE,,,,,
+drop,e2/m_harpydrop.wav,1,,,FRAME_ONCE,,,,,
+hita,e2/m_harpyhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e2/m_harpyhitb.wav,1,,,FRAME_ONCE,,,,,
+runa,e2/m_harpyruna.wav,1,,,FRAME_ONCE,,,,,
+walka,e2/m_harpywalka.wav,1,,,FRAME_ONCE,,,,,
+jumpa,e2/m_harpyjump.wav,1,,,FRAME_ONCE,,,,,
+jumpb,e2/m_harpyjump.wav,1,,,FRAME_ONCE,,,,,
+sighta,e2/m_harpysighta.wav,1,,,FRAME_ONCE,,,,80,
+sightb,e2/m_harpysightb.wav,1,,,FRAME_ONCE,,,,20,

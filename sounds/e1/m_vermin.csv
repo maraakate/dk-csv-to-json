@@ -1,0 +1,16 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+amba,null.wav,1,e1/m_verminamba.wav,1,FRAME_LOOP,,,,70,10
+ambb,null.wav,1,e1/m_verminambb.wav,1,FRAME_ONCE,,,,30,10
+ataka,e1/m_verminataka.wav,1,,,FRAME_ONCE,1,,160,,
+atakb,e1/m_verminatakb.wav,3,,,FRAME_ONCE,1,,160,,
+atakc,e1/m_verminatakc.wav,1,,,FRAME_ONCE,1,,160,,
+atakd,e1/m_verminatakd.wav,1,,,FRAME_ONCE,1,,160,,
+diea,e1/m_vermindiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e1/m_vermindieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e1/m_verminhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e1/m_verminhitb.wav,1,,,FRAME_ONCE,,,,,
+runa,e1/m_verminruna.wav,1,,,FRAME_ONCE,,,160,,
+flya,e1/m_vermindart.wav,1,,,FRAME_ONCE,,,,,
+walka,e1/m_verminwalka.wav,1,,,FRAME_ONCE,,,60,,
+sighta,e1/m_verminsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e1/m_verminsightb.wav,1,,,FRAME_ONCE,,,,50,

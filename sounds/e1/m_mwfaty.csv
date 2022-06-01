@@ -1,0 +1,12 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed
+amba,,,,,FRAME_LOOP,,,
+ambb,,,,,FRAME_ONCE,,,
+dieb,e1/m_mwguarddiea.wav,1,,,FRAME_ONCE,,,
+diea,e1/skinnydeath2.wav,1,,,FRAME_ONCE,,,
+runa,e1/m_mwguardwalka.wav,1,e1/m_mwguardwalkb.wav,8,FRAME_ONCE,,,
+walka,e1/m_mwguardwalka.wav,1,e1/m_mwguardwalkb.wav,8,FRAME_ONCE,,,
+tamba,e1/Keyboard_loop.wav,1,,,FRAME_ONCE,,,
+taasaa,e1/Keyboard_single.wav,1,,,FRAME_ONCE,,,
+sighta,,,,,FRAME_ONCE,,,
+sightb,,,,,FRAME_ONCE,,,
+sightc,,,,,FRAME_ONCE,,,

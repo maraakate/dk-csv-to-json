@@ -1,0 +1,14 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e3/m_gharramba.wav,1,FRAME_LOOP,,,,70,5
+ambb,,,e3/m_gharrambb.wav,1,FRAME_ONCE,,,,20,10
+ambc,,,e3/m_gharrambc.wav,1,FRAME_ONCE,,,,10,15
+ataka,global/we_swordwhoosha.wav,1,,,FRAME_ONCE,1,,250,,
+atakb,global/we_swordwhooshb.wav,1,,,FRAME_ONCE,1,,250,,
+atakc,e3/m_gharratakc.wav,8,global/m_punche.wav,,FRAME_ONCE,16,,250,,
+diea,e3/m_gharrdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e3/m_gharrdieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e3/m_gharrhita.wav,1,,,FRAME_ONCE,,,,,
+runa,e3/m_gharrruna.wav,1,,,FRAME_ONCE,,,250,,
+walka,e3/m_gharrwalka.wav,1,,,FRAME_ONCE,,,50,,
+sighta,e3/m_gharrsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e3/m_gharrsightb.wav,1,,,FRAME_ONCE,,,,50,

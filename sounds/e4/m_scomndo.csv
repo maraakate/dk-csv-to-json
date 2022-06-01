@@ -1,0 +1,13 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+amba,,,e4/m_scomandoamba.wav,1,FRAME_LOOP,,,,85,10
+ambb,,,e4/m_scomandoambb.wav,1,FRAME_ONCE,,,,15,20
+ataka,e1/e_rockgatshootmultia.wav,10,e1/e_rockgatshootmultia.wav,16,FRAME_ONCE,8,,400,,
+atakb,e1/e_rockgatshootmultia.wav,13,,,FRAME_ONCE,12,,400,,
+diea,e4/m_scomandodiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e4/m_scomandodieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e4/m_scomandohita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e4/m_scomandohitb.wav,1,,,FRAME_ONCE,,,,,
+runa,global/p_stp1.wav,1,global/p_stp2.wav,8,FRAME_ONCE,,,400,,
+walka,global/p_stp1.wav,1,global/p_stp2.wav,8,FRAME_ONCE,,,50,,
+sighta,e4/m_scomandosighta.wav,1,,,FRAME_ONCE,,,,30,
+sightb,e4/m_scomandosightb.wav,1,,,FRAME_ONCE,,,,70,

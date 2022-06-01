@@ -1,0 +1,5 @@
+,sound1,frame1,sound2,frame2,flag,attack seq
+cringe,e3/m_priestcringe.wav,1,,,FRAME_ONCE,
+diea,e3/m_priestdiea.wav,1,,,FRAME_ONCE,
+talka,e3/m_priesttalka.wav,1,,,FRAME_ONCE,
+walka,e3/m_priestwalka.wav,1,,,FRAME_ONCE,

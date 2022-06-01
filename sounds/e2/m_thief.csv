@@ -1,0 +1,12 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e2/m_thiefamba.wav,1,FRAME_LOOP,,,,80,10
+ambb,,,e2/m_thiefambb.wav,1,FRAME_ONCE,,,,20,30
+ataka,global/we_swordwhoosha.wav,10,,,FRAME_ONCE,10,,500,,
+atakb,global/we_swordwhooshb.wav,8,global/m_knifehita.wav,,FRAME_ONCE,10,,500,,
+diea,e2/m_thiefdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e2/m_thiefdieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e2/m_thiefhita.wav,1,,,FRAME_ONCE,,,,,
+runa,e2/m_satyrwalka.wav,1,e2/m_satyrwalka.wav,6,FRAME_ONCE,,,500,,
+walka,e2/m_satyrwalka.wav,1,e2/m_satyrwalka.wav,8,FRAME_ONCE,,,150,,
+sighta,e2/m_thiefsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e2/m_thiefsightb.wav,1,,,FRAME_ONCE,,,,50,

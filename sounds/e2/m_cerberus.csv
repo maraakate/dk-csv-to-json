@@ -1,0 +1,12 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,1,e2/m_cerebusamba.wav,,FRAME_LOOP,,,,80,90
+ambb,,1,e2/m_cerebusambb.wav,,FRAME_ONCE,,,,20,90
+ataka,e2/m_cerebusataka.wav,1,,,FRAME_ONCE,10,,350,,
+atakb,e2/m_cerebusatakb.wav,1,,,FRAME_ONCE,10,,350,,
+diea,e2/m_cerebusdiea.wav,1,,,FRAME_ONCE,,,,,
+hita,e2/m_cerebushita.wav,1,,,FRAME_ONCE,,,,,
+runa,e2/m_cerberusruna.wav,1,,,FRAME_ONCE,,,350,,
+jumpa,e2/m_cerebusjumpa.wav,1,,,FRAME_ONCE,,,,,
+walka,e2/m_cerebuswalka.wav,1,,,FRAME_ONCE,,,75,,
+sighta,e2/m_cerebussighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e2/m_cerebussightb.wav,1,,,FRAME_ONCE,,,,50,

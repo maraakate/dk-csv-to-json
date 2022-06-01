@@ -1,0 +1,13 @@
+,sound1,frame1,sound2,frame2,flag,attack seq
+stand,e3\\m_deggstand.wav,1,,,FRAME_ONCE,
+ataka,,1,,,FRAME_ONCE,1
+atakb,,1,,,FRAME_ONCE,7
+atakc,,1,,,FRAME_ONCE,1
+diea,,1,,,FRAME_ONCE,
+dieb,,1,,,FRAME_ONCE,
+hita,,1,,,FRAME_ONCE,
+hitb,,1,,,FRAME_ONCE,
+runa,,1,,,FRAME_ONCE,
+walka,,1,,,FRAME_ONCE,
+sighta,,1,,,FRAME_ONCE,
+sightb,,1,,,FRAME_ONCE,

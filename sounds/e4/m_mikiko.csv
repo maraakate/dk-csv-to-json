@@ -1,0 +1,7 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+diea,mikiko/death3.wav,1,,,FRAME_ONCE,,,,,
+hita,mikiko/pain2.wav,1,,,FRAME_ONCE,,,,,
+hitb,mikiko/pain3.wav,1,,,FRAME_ONCE,,,,,
+runa,e4/m_uzigngruna.wav,1,,,FRAME_ONCE,,,375,,
+walka,e4/m_uzigngwalka.wav,1,,,FRAME_ONCE,,,50,,
+sighta,mikiko/laugh2.wav,1,,,FRAME_ONCE,,,,50,

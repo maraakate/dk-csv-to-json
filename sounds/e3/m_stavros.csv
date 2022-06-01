@@ -1,0 +1,8 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e3/m_stavrosamba.wav,1,FRAME_LOOP,,,,100,5
+ataka,e3/m_stavrosataka.wav,20,,,FRAME_ONCE,26,,250,,
+diea,e3/m_stavrosdiea.wav,1,,,FRAME_ONCE,,,,,
+hita,e3/m_stavroshita.wav,1,,,FRAME_ONCE,,,,,
+walka,e3/m_stavroswalka.wav,1,e3/m_stavroswalkb.wav,6,FRAME_ONCE,,,120,,
+sighta,e3/m_stavrossighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e3/m_stavrossightb.wav,1,,,FRAME_ONCE,,,,50,

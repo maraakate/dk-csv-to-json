@@ -1,0 +1,10 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+amba,,,e1/m_prizaamba.wav,1,FRAME_LOOP,,,,80,2
+ambb,,,e1/m_prizaambb.wav,1,FRAME_ONCE,,,,10,5
+ambc,,,e1/m_prizaambc.wav,1,FRAME_ONCE,,,,10,5
+diea,e1/m_mwguarddiea.wav,1,,,FRAME_ONCE,,,,,
+runa,e1/m_mwguardwalka.wav,1,e1/m_mwguardwalkb.wav,8,FRAME_ONCE,,,54,,
+walka,e1/m_mwguardwalka.wav,1,e1/m_mwguardwalkb.wav,8,FRAME_ONCE,,,35,,
+sighta,e1/m_prizasighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e1/m_prizasightb.wav,1,,,FRAME_ONCE,,,,25,
+sightc,e1/m_prizasightc.wav,1,,,FRAME_ONCE,,,,25,

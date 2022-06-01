@@ -1,0 +1,15 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+amba,e1/m_cryoamba.wav,1,e1/m_cryoambb.wav,1,FRAME_LOOP,,,,100,3
+bambb,e1/m_cryoataka.wav,1,,,FRAME_ONCE,1,,70,,
+bambc,e1/m_cryoataka.wav,1,,,FRAME_ONCE,1,,70,,
+diea,e1/m_cryodiea.wav,1,,,FRAME_ONCE,,,,,
+diec,e1/m_cryodiea.wav,1,,,FRAME_ONCE,,,,,
+hita,e1/m_cryohita.wav,1,,,FRAME_ONCE,,,,,
+walka,e1/m_cryowalka.wav,1,,,FRAME_ONCE,,,50,,
+walkb,e1/m_cryowalka.wav,1,,,FRAME_ONCE,,,50,,
+sighta,e1/m_cryosighta.wav,1,,,FRAME_ONCE,,,,25,
+sightb,e1/m_cryosightb.wav,1,,,FRAME_ONCE,,,,15,
+sightc,e1/m_cryosightc.wav,1,,,FRAME_ONCE,,,,15,
+sightd,e1/m_cryosightd.wav,1,,,FRAME_ONCE,,,,15,
+sighte,e1/m_cryosighte.wav,1,,,FRAME_ONCE,,,,15,
+sightf,e1/m_cryosightf.wav,1,,,FRAME_ONCE,,,,15,

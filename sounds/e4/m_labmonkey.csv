@@ -1,0 +1,19 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+amba,,,e4/m_labmonkeyamba.wav,1,FRAME_LOOP,,,,80,30
+ambb,,,e4/m_labmonkeyambb.wav,1,FRAME_ONCE,,,,7,100
+ambd,,,e4/m_labmonkeyambd.wav,1,FRAME_ONCE,,,,7,100
+ambe,,,e4/m_labmonkeyambe.wav,1,FRAME_ONCE,,,,6,100
+ataka,e4/m_labmonkeyataka.wav,8,global/m_punchg.wav,,FRAME_ONCE,11,,200,,
+atakb,e4/m_labmonkeyatakb.wav,1,global/m_punchg.wav,,FRAME_ONCE,9,18,200,,
+atakc,e4/m_labmonkeyatakc.wav,1,global/m_punchg.wav,,FRAME_ONCE,8,17,200,,
+atakd,e4/m_labmonkeyatakd.wav,1,global/m_punchg.wav,,FRAME_ONCE,12,,200,,
+atake,e4/m_labmonkeyatake.wav,5,global/m_punchg.wav,,FRAME_ONCE,18,,200,,
+diea,e4/m_labmonkeydiesa.wav,1,,,FRAME_ONCE,,,,,
+dieb,e4/m_labmonkeydiesb.wav,1,,,FRAME_ONCE,,,,,
+hita,e4/m_labmonkeyhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e4/m_labmonkeyhitb.wav,1,,,FRAME_ONCE,,,,,
+walka,e4/m_labmonkeywalka.wav,1,,,FRAME_ONCE,,,70,,
+runa,e4/m_labmonkeyruna.wav,1,,,FRAME_ONCE,,,200,,
+jumpa,e4/m_labmonkeyjumpa.wav,1,,,FRAME_ONCE,,,,
+sighta,e4/m_labmonkeysighta.wav,1,,,FRAME_ONCE,,,,70
+sightb,e4/m_labmonkeysightb.wav,1,,,FRAME_ONCE,,,,30

@@ -1,0 +1,12 @@
+,sound1,frame1,sound2,frame2,flag,attack seq
+amba,e2/m_cyclopsamba.wav,1,,,FRAME_LOOP,
+ambb,e2/m_cyclopsambb.wav,1,,,FRAME_ONCE,
+ataka,e2/m_cyclopsataka.wav,1,,,FRAME_ONCE,1
+atakb,e2/m_cyclopsatakb.wav,1,,,FRAME_ONCE,1
+atakc,e2/m_cyclopsatakc.wav,1,,,FRAME_ONCE,1
+diea,e2/m_cyclopsdiea.wav,1,,,FRAME_ONCE,
+hita,e2/m_cyclopshita.wav,1,,,FRAME_ONCE,
+runa,e2/m_cyclopsruna.wav,1,,,FRAME_ONCE,
+walka,e2/m_cyclopswalka.wav,1,,,FRAME_ONCE,
+sighta,e2/m_cyclopssighta.wav,1,,,FRAME_ONCE,
+sightb,e2/m_cyclopssightb.wav,1,,,FRAME_ONCE,

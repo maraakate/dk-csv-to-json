@@ -1,0 +1,14 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+amba,,,e1/m_psyclawamba.wav,1,FRAME_LOOP,,,,50,10
+ambb,,,e1/m_psyclawambb.wav,1,FRAME_ONCE,,,,10,20
+ambc,,,e1/m_psyclawambc.wav,1,FRAME_ONCE,,,,40,10
+ataka,e1/m_psyclawatakc.wav,1,global/m_punchf.wav,8,FRAME_ONCE,10,,240,,
+atakb,e1/m_psyclawatakb.wav,4,,,FRAME_ONCE,5,14,240,,
+atakc,e1/m_psyclawatakc.wav,1,e1/m_psyclawpsonic.wav,1,FRAME_ONCE,1,,240,,
+diea,e1/m_psyclawdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e1/m_psyclawdieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e1/m_psyclawhita.wav,1,global/m_punche.wav,1,FRAME_ONCE,,,,,
+runa,e1/m_psyclawwalka.wav,1,e1/m_psyclawwalkb.wav,8,FRAME_ONCE,,,240,,
+walka,e1/m_psyclawwalka.wav,1,e1/m_psyclawwalkb.wav,8,FRAME_ONCE,,,90,,
+sighta,e1/m_psyclawsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e1/m_psyclawsightb.wav,1,,,FRAME_ONCE,,,,50,

@@ -1,0 +1,12 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e4/m_kageamba.wav,1,FRAME_LOOP,,,,100,5
+ataka,e4/m_kageataka.wav,6,global/m_knifehita.wav,,FRAME_ONCE,11,,250,,
+atakc,e4/m_kageatakb.wav,8,global/m_knifehitc.wav,,FRAME_ONCE,13,,250,,
+atakb,e4/m_kageatakb.wav,6,global/m_knifehitb.wav,,FRAME_ONCE,12,,250,,
+diea,e4/m_kagediea.wav,1,,,FRAME_ONCE,,,,,
+hita,e4/m_kagehita.wav,1,,,FRAME_ONCE,,,,,
+runa,e4/m_rockgangwalka.wav,1,e4/m_rockgangwalkb.wav,8,FRAME_ONCE,,,250,,
+walka,e4/m_rockgangwalka.wav,1,e4/m_rockgangwalkb.wav,12,FRAME_ONCE,,,100,,
+jumpa,e4/m_kagejumpa.wav,6,,,FRAME_ONCE,,,,,
+sighta,e4/m_kagesighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e4/m_kagesightb.wav,1,,,FRAME_ONCE,,,,50,

@@ -1,0 +1,11 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+amba,,,e3/m_k1amba.wav,1,FRAME_ONCE,,,,90,5
+ambb,,,e3/m_k1ambb.wav,1,FRAME_ONCE,,,,10,20
+ataka,e3/m_k1ataka.wav,6,global/m_knifehita.wav,,FRAME_ONCE,21,,250,,
+atakb,e3/m_k1atakb.wav,7,,,FRAME_ONCE,20,,250,,
+diea,e3/m_k1diea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e3/m_k1dieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e3/m_k1hita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e3/m_k1hitb.wav,1,,,FRAME_ONCE,,,,,
+runa,e3/m_k1runa.wav,1,,,FRAME_ONCE,,,250,,
+walka,e3/m_k1walka.wav,1,,,FRAME_ONCE,,,150,,

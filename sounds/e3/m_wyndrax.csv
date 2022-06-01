@@ -1,0 +1,10 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed
+amba,e3/m_wyndraxamba.wav,1,,,FRAME_LOOP,,,
+ataka,e3/m_wyndraxataka.wav,1,,,FRAME_ONCE,17,,250
+atakb,e3/m_wyndraxatakb.wav,1,,,FRAME_ONCE,15,,250
+diea,e3/m_wyndraxdiea.wav,1,,,FRAME_ONCE,,,
+runa,global/p_stp1.wav,1,global/p_stp2.wav,7,FRAME_ONCE,,,250
+walka,global/p_stp1.wav,1,global/p_stp2.wav,8,FRAME_ONCE,,,50
+sighta,e3/m_wyndraxsighta.wav,1,,,FRAME_ONCE,,,
+sightb,e3/m_wyndraxsightb.wav,1,,,FRAME_ONCE,,,
+sightc,e3/m_wyndraxsightc.wav,1,,,,,,

@@ -1,0 +1,16 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+amba,,,e1/m_croxamba.wav,1,FRAME_LOOP,,,,75,10
+ambb,,,e1/m_croxambb.wav,1,FRAME_ONCE,,,,25,10
+ataka,e1/m_croxataka.wav,9,,,FRAME_ONCE,13,,175,,
+atakb,e1/m_croxatakb.wav,6,e1/m_croxatakb.wav,13,FRAME_ONCE,13,,175,,
+diea,e1/m_croxdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e1/m_croxdieb.wav,1,,,FRAME_ONCE,,,,,
+walka,e1/m_croxwalka.wav,1,e1/m_croxwalkb.wav,8,FRAME_ONCE,,,43,,
+runa,e1/m_croxwalka.wav,1,e1/m_croxwalkb.wav,8,FRAME_ONCE,,,175,,
+sighta,e1/m_croxsighta.wav,1,,,FRAME_ONCE,,,,50,
+sightb,e1/m_croxsightb.wav,1,,,FRAME_ONCE,,,,50,
+hita,e1/m_croxhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e1/m_croxhitb.wav,1,,,FRAME_ONCE,,,,,
+swima,,1,,,FRAME_ONCE,,,,,
+atakc,e1/m_croxatakb.wav,1,,,FRAME_ONCE,13,,175,,
+atakd,e1/m_croxataka.wav,1,,,FRAME_ONCE,13,,175,,

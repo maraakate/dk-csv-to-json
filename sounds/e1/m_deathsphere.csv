@@ -1,0 +1,7 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed
+amba,,,e1/m_dsphereamba.wav,1,FRAME_LOOP,,,
+ataka,e1/m_dsphereatak.wav,1,,,FRAME_ONCE,1,,250
+flya,,1,,,FRAME_ONCE,,,50
+flyb,,1,,,FRAME_ONCE,,,250
+sighta,e1/m_dspheresighta.wav,1,,,FRAME_ONCE,,,
+sightb,e1/m_dspheresightb.wav,1,,,FRAME_ONCE,,,

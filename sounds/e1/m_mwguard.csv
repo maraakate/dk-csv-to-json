@@ -1,0 +1,17 @@
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+amba,,,e1/m_mwguardamba.wav,1,FRAME_LOOP,,,,90,1
+ambb,,,e1/m_mwguardambb.wav,1,FRAME_LOOP,,,,5,2
+ambc,,,e1/m_mwguardambc.wav,1,FRAME_LOOP,,,,5,2
+ataka,e1/m_mwguardataka.wav,1,,,FRAME_ONCE,1,,400,,
+atakb,e1/m_mwguardataka.wav,1,,,FRAME_ONCE,1,,400,,
+atakc,e1/m_mwguardataka.wav,1,,,FRAME_ONCE,1,,400,,
+diea,e1/m_mwguarddiea.wav,1,,,FRAME_ONCE,,,,,
+runa,e1/m_mwguardwalka.wav,1,e1/m_mwguardwalkb.wav,8,FRAME_ONCE,,,400,,
+runb,e1/m_mwguardwalka.wav,1,e1/m_mwguardwalkb.wav,8,FRAME_ONCE,,,400,,
+runc,e1/m_mwguardwalka.wav,1,e1/m_mwguardwalkb.wav,8,FRAME_ONCE,,,400,,
+walka,e1/m_mwguardwalka.wav,1,e1/m_mwguardwalkb.wav,8,FRAME_ONCE,,,35,,
+reload,e1/m_mwguardreload.wav,12,,,FRAME_ONCE,,,400,,
+sighta,e1/m_mwguardsighta.wav,1,,,FRAME_ONCE,1,,,20,
+sightb,e1/m_mwguardsightb.wav,1,,,FRAME_ONCE,1,,,30,
+sightc,e1/m_mwguardsightc.wav,1,,,FRAME_ONCE,1,,,30,
+sightd,e1/m_mwguardsightd.wav,1,,,FRAME_ONCE,1,,,20

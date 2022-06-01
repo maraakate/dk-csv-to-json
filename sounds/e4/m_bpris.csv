@@ -1,0 +1,21 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e4/m_bprisamba.wav,1,FRAME_LOOP,,,,80,1
+ambb,,,e4/m_bprisambc.wav,8,FRAME_ONCE,,,,5,10
+ambc,,,e4/m_bprisambb.wav,1,FRAME_ONCE,,,,5,10
+ambd,,,e4/m_bprisambd.wav,10,FRAME_ONCE,,,,10,5
+ataka,e4/m_bprisataka.wav,7,global/m_punchc.wav,,FRAME_ONCE,10,,240,,
+atakb,e4/m_bprisataka.wav,8,global/m_punchc.wav,,FRAME_ONCE,11,15,240,,
+atakc,e4/m_bprisataka.wav,7,global/m_punchc.wav,,FRAME_ONCE,10,,240,,
+atakd,e4/m_bprisataka.wav,15,global/m_punchc.wav,,FRAME_ONCE,19,,240,,
+diea,e4/m_bprisdiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e4/m_bprisdieb.wav,1,,,FRAME_ONCE,,,,,
+hita,e4/m_bprishita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e4/m_bprishitb.wav,1,,,FRAME_ONCE,,,,,
+runa,e4/m_wpriswalka.wav,1,e4/m_wpriswalkb.wav,8,FRAME_ONCE,,,240,,
+walka,e4/m_wpriswalka.wav,1,e4/m_wpriswalkb.wav,8,FRAME_ONCE,,,150,,
+sighta,e4/m_bprissighta.wav,1,,,FRAME_ONCE,,,,30,
+sightb,e4/m_bprissightb.wav,1,,,FRAME_ONCE,,,,20
+sightc,e4/m_bprissightc.wav,1,,,FRAME_ONCE,,,,20
+sightd,e4/m_bprissightd.wav,1,,,FRAME_ONCE,,,,10
+sighte,e4/m_bprissighte.wav,1,,,FRAME_ONCE,,,,10
+sightf,e4/m_bprissightf.wav,1,,,FRAME_ONCE,,,,10

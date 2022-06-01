@@ -1,0 +1,18 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,e2/m_skeletonamba.wav,1,,,FRAME_LOOP,,,,,
+ataka,e2/m_skeletonataka.wav,1,global/m_knifehitb.wav,,FRAME_ONCE,12,,,,
+atakb,e2/m_skeletonatakb.wav,1,global/m_knifehitb.wav,,FRAME_ONCE,6,12,,,
+atakc,e2/m_skeletonatakc.wav,1,global/m_knifehitb.wav,,FRAME_ONCE,12,,,,
+atakd,e2/m_skeletonatakd.wav,1,global/m_knifehitb.wav,,FRAME_ONCE,6,14,,,
+atake,e2/m_skeletonatakf.wav,4,global/m_knifehitb.wav,,FRAME_ONCE,7,,,,
+atakf,e2/m_skeletonatake.wav,1,global/m_knifehitb.wav,,FRAME_ONCE,5,,300,,
+atakg,e2/m_skeletonatakg.wav,1,global/m_knifehitb.wav,,FRAME_ONCE,5,12,,,
+diea,e2/m_skeletondiea.wav,1,,,FRAME_ONCE,,,,,
+died,e2/m_skeletondied.wav,1,,,FRAME_ONCE,,,,,
+hita,e2/m_skeletonhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e2/m_skeletonhitb.wav,1,,,FRAME_ONCE,,,,,
+jumpa,e2/m_skeletonjumpa.wav,1,,,FRAME_ONCE,12,,300,,
+runa,e2/m_skeletonruna.wav,1,,,FRAME_ONCE,,,300,,
+walka,e2/m_skeletonwalka.wav,1,,,FRAME_ONCE,,,50,,
+sighta,e2/m_skeletonsighta.wav,1,,,FRAME_ONCE,,,,50
+sightb,e2/m_skeletonsightb.wav,1,,,FRAME_ONCE,,,,50

@@ -1,0 +1,18 @@
+,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+amba,,,e2/m_griffonflya.wav,1,FRAME_LOOP,,,,,
+ataka,e2/m_griffonataka.wav,1,,,FRAME_ONCE,13,,250,,
+atakb,e2/m_griffonatakb.wav,8,,,FRAME_ONCE,16,24,250,,
+atakc,e2/m_griffonatakb.wav,1,,,FRAME_ONCE,3,13,250,,
+atakd,e2/m_griffonatakb.wav,1,,,FRAME_ONCE,8,,250,,
+diea,e2/m_griffondiea.wav,1,,,FRAME_ONCE,,,,,
+dieb,e2/m_griffondieb.wav,1,,,FRAME_ONCE,,,,,
+drop,e2/m_griffondrop.wav,8,,,FRAME_ONCE,,,,,
+flya,e2/m_griffonflya.wav,1,,,FRAME_ONCE,,,,,
+flyb,e2/m_griffonflya.wav,1,,,FRAME_ONCE,,,,,
+flyc,e2/m_griffonflya.wav,1,,,FRAME_ONCE,,,,,
+hita,e2/m_griffonhita.wav,1,,,FRAME_ONCE,,,,,
+hitb,e2/m_griffonhita.wav,1,,,FRAME_ONCE,,,,,
+hovera,e2/m_griffonhovera.wav,1,,,FRAME_ONCE,,,,,
+jumpa,e2/m_griffondrop.wav,1,,,FRAME_ONCE,,,,,
+runa,e2/m_griffonruna.wav,1,,,FRAME_ONCE,,,250
+sight,e2/m_griffonsight.wav,1,,,FRAME_ONCE,,,
