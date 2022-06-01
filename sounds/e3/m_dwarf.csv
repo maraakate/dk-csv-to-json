@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,e3/m_dwarfamba.wav,1,e3/m_dwarfsighte.wav,,FRAME_LOOP,,,,85,5
 ambb,e3/m_dwarfsighte.wav,1,e3/m_dwarfsightc.wav,,FRAME_ONCE,,,,15,20
 ataka,e3/m_dwarfataka.wav,15,global/m_knifehitd.wav,,FRAME_ONCE,18,,200,,

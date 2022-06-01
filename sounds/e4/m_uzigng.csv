@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,,,FRAME_LOOP,,,,,
 ambb,,,e4/m_uzigngambb.wav,1,FRAME_ONCE,,,,5,40
 ataka,e4/m_uzigngataka.wav,6,,,FRAME_ONCE,6,,,,

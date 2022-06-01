@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e3/m_rotamba.wav,1,FRAME_LOOP,,,,100,10
 ataka,e3/m_rotataka.wav,1,,,FRAME_ONCE,13,,250,,
 atakb,e3/m_rotdrop.wav,1,,,FRAME_ONCE,9,,250,,

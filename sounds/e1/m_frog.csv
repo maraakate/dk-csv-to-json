@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e1/m_frogamba.wav,1,FRAME_LOOP,,,,75,20
 ambb,,,e1/m_frogambb.wav,1,FRAME_ONCE,,,,25,50
 ataka,e1/m_frogataka.wav,7,,,FRAME_ONCE,7,,100,,

@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq ,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e1/m_thunderskeetamba.wav,1,FRAME_LOOP,,,,50,50
 ataka,e1/m_thunderskeetataka.wav,3,,,FRAME_ONCE,1,,350,,
 diea,e1/m_thunderskeetdiea.wav,1,,,FRAME_ONCE,,,,,

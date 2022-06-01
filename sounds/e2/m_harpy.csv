@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e2/m_harpyamba.wav,1,FRAME_LOOP,,,,50,10
 ambb,,,e2/m_harpyambb.wav,1,FRAME_ONCE,,,,50,10
 ataka,e2/m_harpyataka.wav,0,,,FRAME_ONCE,14,,,,

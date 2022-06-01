@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,null.wav,1,,1,FRAME_LOOP,,,,70,10
 ataka,e3/m_rotprefire.wav,4,,,FRAME_ONCE,1,,160,,
 swima,global/e_pondwatera.wav,1,,,FRAME_ONCE,,,160,,

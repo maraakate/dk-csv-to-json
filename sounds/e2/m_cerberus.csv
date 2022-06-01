@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,1,e2/m_cerebusamba.wav,,FRAME_LOOP,,,,80,90
 ambb,,1,e2/m_cerebusambb.wav,,FRAME_ONCE,,,,20,90
 ataka,e2/m_cerebusataka.wav,1,,,FRAME_ONCE,10,,350,,

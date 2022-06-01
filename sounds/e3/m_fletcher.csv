@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e3/m_fletcheramba.wav,1,FRAME_LOOP,,,,80,5
 ambb,,,e3/m_fletcherambb.wav,1,FRAME_ONCE,,,,20,15
 ataka,e3/m_fletcherataka.wav,9,,,FRAME_ONCE,26,,250,,

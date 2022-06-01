@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed
 amba,e3/m_wyndraxamba.wav,1,,,FRAME_LOOP,,,
 ataka,e3/m_wyndraxataka.wav,1,,,FRAME_ONCE,17,,250
 atakb,e3/m_wyndraxatakb.wav,1,,,FRAME_ONCE,15,,250

@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,1,e2/m_satyramba.wav,,FRAME_LOOP,,,,67,10
 ambb,,1,e2/m_satyrambb.wav,,FRAME_ONCE,,,,23,20
 ambc,,1,e2/m_satyrambc.wav,,FRAME_ONCE,,,,10,50

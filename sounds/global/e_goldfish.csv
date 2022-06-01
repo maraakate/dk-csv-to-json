@@ -1,2 +1,2 @@
-,sound1,frame1,sound2,frame2,flag,attack seq
-swima,,1,,,FRAME_ONCE,
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
+swima,,1,,,FRAME_ONCE,,,,,

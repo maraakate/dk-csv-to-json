@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e4/m_labmonkeyamba.wav,1,FRAME_LOOP,,,,80,30
 ambb,,,e4/m_labmonkeyambb.wav,1,FRAME_ONCE,,,,7,100
 ambd,,,e4/m_labmonkeyambd.wav,1,FRAME_ONCE,,,,7,100

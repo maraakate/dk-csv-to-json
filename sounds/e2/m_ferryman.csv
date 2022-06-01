@@ -1,6 +1,6 @@
-,sound1,frame1,sound2,frame2,flag,attack seq
-amba,,,,,FRAME_LOOP,
-ambb,,,,,FRAME_ONCE,
-sighta,,,,,FRAME_ONCE,
-sightb,,,,,FRAME_ONCE,
- rowa ,e2/m_ferrymanrow.wav,1,,,FRAME_ONCE,
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
+amba,,,,,FRAME_LOOP,,,,,
+ambb,,,,,FRAME_ONCE,,,,,
+sighta,,,,,FRAME_ONCE,,,,,
+sightb,,,,,FRAME_ONCE,,,,,
+rowa,e2/m_ferrymanrow.wav,1,,,FRAME_ONCE,,,,,

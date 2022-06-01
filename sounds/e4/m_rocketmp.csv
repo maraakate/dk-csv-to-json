@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e4/m_rocketmpamba.wav,1,FRAME_LOOP,,,,85,5
 ambb,,,e4/m_rocketmpambb.wav,1,FRAME_ONCE,,,,15,10
 ataka,e4/m_rocketmpataka.wav,8,,,FRAME_ONCE,1,,300,,

@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e1/m_psyclawamba.wav,1,FRAME_LOOP,,,,50,10
 ambb,,,e1/m_psyclawambb.wav,1,FRAME_ONCE,,,,10,20
 ambc,,,e1/m_psyclawambc.wav,1,FRAME_ONCE,,,,40,10

@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,e2/m_skeletonamba.wav,1,,,FRAME_LOOP,,,,,
 ataka,e2/m_skeletonataka.wav,1,global/m_knifehitb.wav,,FRAME_ONCE,12,,,,
 atakb,e2/m_skeletonatakb.wav,1,global/m_knifehitb.wav,,FRAME_ONCE,6,12,,,

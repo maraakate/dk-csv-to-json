@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e3/m_k1amba.wav,1,FRAME_ONCE,,,,90,5
 ambb,,,e3/m_k1ambb.wav,1,FRAME_ONCE,,,,10,20
 ataka,e3/m_k1ataka.wav,6,global/m_knifehita.wav,,FRAME_ONCE,21,,250,,

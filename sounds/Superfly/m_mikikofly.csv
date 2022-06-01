@@ -1,7 +1,7 @@
-,sound1,frame1,sound2,frame2,flag,attack seq
-amba,,1,,,FRAME_LOOP,1
-walka,,1,,,FRAME_ONCE,1
-diea,,1,,,FRAME_ONCE,1
-runa,,1,,,FRAME_ONCE,1
-runb,,1,,,FRAME_ONCE,1
-hita,,1,,,FRAME_ONCE,1
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
+amba,,1,,,FRAME_LOOP,1,,,,
+walka,,1,,,FRAME_ONCE,1,,,,
+diea,,1,,,FRAME_ONCE,1,,,,
+runa,,1,,,FRAME_ONCE,1,,,,
+runb,,1,,,FRAME_ONCE,1,,,,
+hita,,1,,,FRAME_ONCE,1,,,,

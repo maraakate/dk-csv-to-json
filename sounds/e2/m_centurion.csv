@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,e2/m_centurionamba.wav,1,,,FRAME_LOOP,,,,,
 ataka,e2/m_centurionataka.wav,6,global/m_knifehitd.wav,,FRAME_ONCE,9,,,,
 atakb,e2/m_centurionatakb.wav,5,global/m_knifehitd.wav,,FRAME_ONCE,7,,,,

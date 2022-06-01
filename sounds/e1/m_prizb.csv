@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,,,e1/m_prizaamba.wav,1,FRAME_LOOP,,,,80,2
 ambb,,,e1/m_prizaambb.wav,1,FRAME_ONCE,,,,10,5
 ambc,,,e1/m_prizaambc.wav,1,FRAME_ONCE,,,,10,5

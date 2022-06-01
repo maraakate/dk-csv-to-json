@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq,attack seq 2,anim speed,anim %,sound2 %
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
 amba,e3/m_lycanthiramba.wav,1,e3/m_lycanthirhowla.wav,,FRAME_LOOP,,,,80,20
 ambb,e3/m_lycanthirambb.wav,1,e3/m_lycanthirhowlc.wav,,FRAME_ONCE,,,,10,50
 ataka,e3/m_lycanthirataka.wav,6,global/m_gibmeatd.wav,,FRAME_ONCE,12,,300,,
