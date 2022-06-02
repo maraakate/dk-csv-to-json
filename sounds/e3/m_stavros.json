@@ -1,0 +1,93 @@
+[
+  {
+    "framename": "amba",
+    "sound1": "",
+    "frame1": "",
+    "sound2": "e3/m_stavrosamba.wav",
+    "frame2": 1,
+    "flag": "FRAME_LOOP",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 100,
+    "sound2 %": 5
+  },
+  {
+    "framename": "ataka",
+    "sound1": "e3/m_stavrosataka.wav",
+    "frame1": 20,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 26,
+    "attack seq 2": "",
+    "anim speed": 250,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "diea",
+    "sound1": "e3/m_stavrosdiea.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "hita",
+    "sound1": "e3/m_stavroshita.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "walka",
+    "sound1": "e3/m_stavroswalka.wav",
+    "frame1": 1,
+    "sound2": "e3/m_stavroswalkb.wav",
+    "frame2": 6,
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 120,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "sighta",
+    "sound1": "e3/m_stavrossighta.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 50,
+    "sound2 %": ""
+  },
+  {
+    "framename": "sightb",
+    "sound1": "e3/m_stavrossightb.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 50,
+    "sound2 %": ""
+  }
+]

@@ -1,4 +1,4 @@
-,sound1,frame1,sound2,frame2,flag,attack seq
-flya,e3/e_wisploopa.wav,1,,,FRAME_LOOP,
-amba,e3/m_wwispsucka.wav,,e3/m_wwispsuckb.wav,,,
-ambb ,e3/m_wwispsuckc.wav,,e3/m_wwispsuckd.wav,,,
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
+flya,e3/e_wisploopa.wav,1,,,FRAME_LOOP,,,,,
+amba,e3/m_wwispsucka.wav,,e3/m_wwispsuckb.wav,,,,,,,
+ambb ,e3/m_wwispsuckc.wav,,e3/m_wwispsuckd.wav,,,,,,,

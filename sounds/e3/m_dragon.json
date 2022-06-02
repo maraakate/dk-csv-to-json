@@ -1,0 +1,93 @@
+[
+  {
+    "framename": "ataka",
+    "sound1": "e3/m_dragonatakc.wav",
+    "frame1": 10,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 44,
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "diea",
+    "sound1": "e3/m_dragondiea.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "hita",
+    "sound1": "e3/m_dragonhita.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "hover",
+    "sound1": "e2/m_griffonflya.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_LOOP",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "sighta",
+    "sound1": "e3/m_dragonsighta.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 50,
+    "sound2 %": ""
+  },
+  {
+    "framename": "sightb",
+    "sound1": "e3/m_dragonsightb.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 50,
+    "sound2 %": ""
+  },
+  {
+    "framename": "flya",
+    "sound1": "e2/m_griffonflya.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_LOOP",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  }
+]

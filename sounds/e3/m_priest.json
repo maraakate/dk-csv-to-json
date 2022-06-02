@@ -1,0 +1,54 @@
+[
+  {
+    "framename": "cringe",
+    "sound1": "e3/m_priestcringe.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "diea",
+    "sound1": "e3/m_priestdiea.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "talka",
+    "sound1": "e3/m_priesttalka.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "walka",
+    "sound1": "e3/m_priestwalka.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  }
+]

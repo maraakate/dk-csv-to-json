@@ -1,0 +1,93 @@
+[
+  {
+    "framename": "amba",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "e4/m_sharkamba.wav",
+    "frame2": "",
+    "flag": "FRAME_LOOP",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 100,
+    "sound2 %": ""
+  },
+  {
+    "framename": "ataka",
+    "sound1": "e4/m_sharkataka.wav",
+    "frame1": 9,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 1,
+    "attack seq 2": "",
+    "anim speed": 360,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "atakb",
+    "sound1": "e4/m_sharkatakb.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 1,
+    "attack seq 2": "",
+    "anim speed": 360,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "atakc",
+    "sound1": "e4/m_sharkatakc.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 1,
+    "attack seq 2": "",
+    "anim speed": 360,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "diea",
+    "sound1": "e4/m_sharkdiea.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "hita",
+    "sound1": "e4/m_sharkhita.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "swima",
+    "sound1": "hiro/swim3.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 360,
+    "anim %": "",
+    "sound2 %": ""
+  }
+]
