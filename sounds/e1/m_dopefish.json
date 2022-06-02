@@ -1,0 +1,67 @@
+[
+  {
+    "framename": "amba",
+    "sound1": "null.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": 1,
+    "flag": "FRAME_LOOP",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 70,
+    "sound2 %": 10
+  },
+  {
+    "framename": "ataka",
+    "sound1": "e3/m_rotprefire.wav",
+    "frame1": 4,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 1,
+    "attack seq 2": "",
+    "anim speed": 160,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "swima",
+    "sound1": "global/e_pondwatera.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 160,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "sighta",
+    "sound1": "null.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 50,
+    "sound2 %": ""
+  },
+  {
+    "framename": "sightb",
+    "sound1": "null.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 50,
+    "sound2 %": ""
+  }
+]

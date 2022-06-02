@@ -1,8 +1,8 @@
-,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed
-amba,e1/m_rmasteramba.wav,1,,,FRAME_LOOP,,,
-sight,e1/m_rmastersight.wav,1,,,FRAME_ONCE,,,
-atake,e1/m_rmasteratake.wav,1,global/m_punchf.wav,,FRAME_ONCE,14,22,100
-diea,e1/m_rmasterdiea.wav,1,,,FRAME_ONCE,,,
-hita,e1/m_rmasterhita.wav,1,,,FRAME_ONCE,,,
-walka,e1/m_rmasterwalka.wav,1,e1/m_rmasterwalka.wav,16,FRAME_ONCE,,,55
-runa,e1/m_rmasterwalka.wav,1,e1/m_rmasterwalka.wav,10,FRAME_ONCE,,,100
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
+amba,e1/m_rmasteramba.wav,1,,,FRAME_LOOP,,,,,
+sight,e1/m_rmastersight.wav,1,,,FRAME_ONCE,,,,,
+atake,e1/m_rmasteratake.wav,1,global/m_punchf.wav,,FRAME_ONCE,14,22,100,,
+diea,e1/m_rmasterdiea.wav,1,,,FRAME_ONCE,,,,,
+hita,e1/m_rmasterhita.wav,1,,,FRAME_ONCE,,,,,
+walka,e1/m_rmasterwalka.wav,1,e1/m_rmasterwalka.wav,16,FRAME_ONCE,,,55,,
+runa,e1/m_rmasterwalka.wav,1,e1/m_rmasterwalka.wav,10,FRAME_ONCE,,,100,,

@@ -1,0 +1,28 @@
+[
+  {
+    "framename": "shoota",
+    "sound1": "e1/m_lasergatshoota.wav",
+    "frame1": 2,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 2,
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "sighta",
+    "sound1": "e1/m_lazergatservo.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  }
+]

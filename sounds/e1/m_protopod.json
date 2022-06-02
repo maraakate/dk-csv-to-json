@@ -1,0 +1,28 @@
+[
+  {
+    "framename": "amba",
+    "sound1": "e1/m_protoamba.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_LOOP",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 100,
+    "sound2 %": 0
+  },
+  {
+    "framename": "hatcha",
+    "sound1": "e1/m_protohatcha.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  }
+]

@@ -1,12 +1,12 @@
-,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed
-amba,e1/m_inmateramba.wav,1,,,FRAME_LOOP,,,
-ataka,e1/m_inmaterataka.wav,0,,,FRAME_ONCE,1,,120
-atakb,e1/m_inmateratakc.wav,3,global/m_knifehite.wav,,FRAME_ONCE,10,,120
-atakc,e1/m_inmateratakb.wav,1,,,FRAME_ONCE,1,,120
-atakstart,e1/m_inmaterruna.wav,3,e1/m_inmaterruna.wav,11,FRAME_ONCE,,,
-atakstop,e1/m_inmaterruna.wav,8,e1/m_inmaterruna.wav,16,FRAME_ONCE,,,
-hita,e1/m_inmaterha.wav,1,,,FRAME_ONCE,,,
-diea,e1/m_inmaterdiea.wav,1,,,FRAME_ONCE,,,
-runa,e1/m_inmaterruna.wav,1,e1/m_inmaterruna.wav,12,FRAME_ONCE,,,120
-walka,e1/m_inmaterwalka.wav,1,e1/m_inmaterwalka.wav,15,FRAME_ONCE,,,45
-sight,e1/m_inmatersight.wav,1,,,FRAME_ONCE,,,
+,sound1,frame1,sound2,frame2,flag,attack seq 1,attack seq 2,anim speed,anim %,sound2 %
+amba,e1/m_inmateramba.wav,1,,,FRAME_LOOP,,,,,
+ataka,e1/m_inmaterataka.wav,0,,,FRAME_ONCE,1,,120,,
+atakb,e1/m_inmateratakc.wav,3,global/m_knifehite.wav,,FRAME_ONCE,10,,120,,
+atakc,e1/m_inmateratakb.wav,1,,,FRAME_ONCE,1,,120,,
+atakstart,e1/m_inmaterruna.wav,3,e1/m_inmaterruna.wav,11,FRAME_ONCE,,,,,
+atakstop,e1/m_inmaterruna.wav,8,e1/m_inmaterruna.wav,16,FRAME_ONCE,,,,,
+hita,e1/m_inmaterha.wav,1,,,FRAME_ONCE,,,,,
+diea,e1/m_inmaterdiea.wav,1,,,FRAME_ONCE,,,,,
+runa,e1/m_inmaterruna.wav,1,e1/m_inmaterruna.wav,12,FRAME_ONCE,,,120,,
+walka,e1/m_inmaterwalka.wav,1,e1/m_inmaterwalka.wav,15,FRAME_ONCE,,,45,,
+sight,e1/m_inmatersight.wav,1,,,FRAME_ONCE,,,,,

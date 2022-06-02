@@ -1,0 +1,93 @@
+[
+  {
+    "framename": "amba",
+    "sound1": "e1/m_rmasteramba.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_LOOP",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "sight",
+    "sound1": "e1/m_rmastersight.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "atake",
+    "sound1": "e1/m_rmasteratake.wav",
+    "frame1": 1,
+    "sound2": "global/m_punchf.wav",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 14,
+    "attack seq 2": 22,
+    "anim speed": 100,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "diea",
+    "sound1": "e1/m_rmasterdiea.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "hita",
+    "sound1": "e1/m_rmasterhita.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "walka",
+    "sound1": "e1/m_rmasterwalka.wav",
+    "frame1": 1,
+    "sound2": "e1/m_rmasterwalka.wav",
+    "frame2": 16,
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 55,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "runa",
+    "sound1": "e1/m_rmasterwalka.wav",
+    "frame1": 1,
+    "sound2": "e1/m_rmasterwalka.wav",
+    "frame2": 10,
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 100,
+    "anim %": "",
+    "sound2 %": ""
+  }
+]

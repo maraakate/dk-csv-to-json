@@ -1,0 +1,80 @@
+[
+  {
+    "framename": "amba",
+    "sound1": "",
+    "frame1": "",
+    "sound2": "e1/m_dsphereamba.wav",
+    "frame2": 1,
+    "flag": "FRAME_LOOP",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "ataka",
+    "sound1": "e1/m_dsphereatak.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": 1,
+    "attack seq 2": "",
+    "anim speed": 250,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "flya",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 50,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "flyb",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 250,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "sighta",
+    "sound1": "e1/m_dspheresighta.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "sightb",
+    "sound1": "e1/m_dspheresightb.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  }
+]
