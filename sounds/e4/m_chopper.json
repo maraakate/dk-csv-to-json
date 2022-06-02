@@ -1,0 +1,110 @@
+[
+  {
+    "framename": "amba",
+    "sound1": "e4/m_chopperflya.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "ambb",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "ambc",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "ataka",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": 1
+  },
+  {
+    "framename": "diea",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "dieb",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "hita",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "hitb",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "runa",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "walka",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "sighta",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  },
+  {
+    "framename": "sightb",
+    "sound1": "",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq": ""
+  }
+]

@@ -1,5 +1,5 @@
 ,sound1,frame1,sound2,frame2,flag,attack seq
-amba,e4\\m_chopperflya.wav,1,,,FRAME_ONCE,
+amba,e4/m_chopperflya.wav,1,,,FRAME_ONCE,
 ambb,,1,,,FRAME_ONCE,
 ambc,,1,,,FRAME_ONCE,
 ataka,,1,,,FRAME_ONCE,1

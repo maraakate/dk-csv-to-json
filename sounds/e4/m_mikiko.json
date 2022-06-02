@@ -1,0 +1,80 @@
+[
+  {
+    "framename": "diea",
+    "sound1": "mikiko/death3.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "hita",
+    "sound1": "mikiko/pain2.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "hitb",
+    "sound1": "mikiko/pain3.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "runa",
+    "sound1": "e4/m_uzigngruna.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 375,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "walka",
+    "sound1": "e4/m_uzigngwalka.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": 50,
+    "anim %": "",
+    "sound2 %": ""
+  },
+  {
+    "framename": "sighta",
+    "sound1": "mikiko/laugh2.wav",
+    "frame1": 1,
+    "sound2": "",
+    "frame2": "",
+    "flag": "FRAME_ONCE",
+    "attack seq 1": "",
+    "attack seq 2": "",
+    "anim speed": "",
+    "anim %": 50,
+    "sound2 %": ""
+  }
+]
